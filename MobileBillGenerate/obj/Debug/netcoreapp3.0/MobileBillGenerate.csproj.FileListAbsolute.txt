@@ -1,0 +1,11 @@
+E:\Practice\ASP.NET Core MVC\MobileBillGenerate\MobileBillGenerate\bin\Debug\netcoreapp3.0\MobileBillGenerate.exe
+E:\Practice\ASP.NET Core MVC\MobileBillGenerate\MobileBillGenerate\obj\Debug\netcoreapp3.0\MobileBillGenerate.AssemblyInfoInputs.cache
+E:\Practice\ASP.NET Core MVC\MobileBillGenerate\MobileBillGenerate\obj\Debug\netcoreapp3.0\MobileBillGenerate.AssemblyInfo.cs
+E:\Practice\ASP.NET Core MVC\MobileBillGenerate\MobileBillGenerate\obj\Debug\netcoreapp3.0\MobileBillGenerate.dll
+E:\Practice\ASP.NET Core MVC\MobileBillGenerate\MobileBillGenerate\obj\Debug\netcoreapp3.0\MobileBillGenerate.pdb
+E:\Practice\ASP.NET Core MVC\MobileBillGenerate\MobileBillGenerate\obj\Debug\netcoreapp3.0\MobileBillGenerate.csprojAssemblyReference.cache
+E:\Practice\ASP.NET Core MVC\MobileBillGenerate\MobileBillGenerate\bin\Debug\netcoreapp3.0\MobileBillGenerate.deps.json
+E:\Practice\ASP.NET Core MVC\MobileBillGenerate\MobileBillGenerate\bin\Debug\netcoreapp3.0\MobileBillGenerate.runtimeconfig.json
+E:\Practice\ASP.NET Core MVC\MobileBillGenerate\MobileBillGenerate\bin\Debug\netcoreapp3.0\MobileBillGenerate.runtimeconfig.dev.json
+E:\Practice\ASP.NET Core MVC\MobileBillGenerate\MobileBillGenerate\bin\Debug\netcoreapp3.0\MobileBillGenerate.dll
+E:\Practice\ASP.NET Core MVC\MobileBillGenerate\MobileBillGenerate\bin\Debug\netcoreapp3.0\MobileBillGenerate.pdb
